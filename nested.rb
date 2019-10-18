@@ -83,7 +83,7 @@ def adding_matz
           :languages => ["C"]
         }
      }
-  top.level.merge(programmer_hash)
+  top_level.merge(programmer_hash)
     
 end
 
